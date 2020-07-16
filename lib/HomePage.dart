@@ -20,7 +20,7 @@ class _HomeState extends State<Home> {
           children: <Widget>[
             DrawerHeader(
               decoration: BoxDecoration(
-                color: Colors.blue,
+                color: Colors.blue
               ),
               child: Text(
                 'Contents',

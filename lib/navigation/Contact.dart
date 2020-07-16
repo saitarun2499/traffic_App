@@ -15,7 +15,7 @@ class _ContactState extends State<Contact> {
 
   _initCall() async {
     if (_controller.text != null)
-      await new CallNumber().callNumber('9133819446');
+      await new CallNumber().callNumber('9398532348');
   }
 
   @override
@@ -30,7 +30,7 @@ class _ContactState extends State<Contact> {
                 child: Row(
                   children: <Widget>[
                     Text(
-                      "       9133819446",
+                      "       9398532348",
                       style: TextStyle(
                         fontSize: 24.0,
                       ),
